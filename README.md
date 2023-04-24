@@ -1,2 +1,2 @@
 # PREVENCION_EPP
-APIS para modulo de prevención de riesgos
+API para modulo EPP de prevención de riesgos
